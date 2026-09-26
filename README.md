@@ -1,10 +1,10 @@
-<div align="center">
+<div align="center ">
 
 # 👋 Hi, I'm Muhammad Ahmar
 
 ### Full Stack Developer | MERN Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Real-World+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9600FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7CMngo;Building+Real-World+Web+Applications" />
 
 <br/>
 
@@ -40,38 +40,61 @@ end-to-end applications.
 
 ---
 
+
 ## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
+</td>
+
+<td width="50%" valign="top">
+
 ### ⚙️ Backend
 
-<p>
+<p align="start">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🗄️ Database
 
-<p>
+<p align="start">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🔐 Authentication & Security
+</td>
 
-<p>
-
-`JWT` &nbsp; `Refresh Tokens` &nbsp; `bcrypt` &nbsp; `RBAC`
-
-</p>
+<td width="50%" valign="top">
 
 ### 🔧 Tools & Platforms
 
-<p>
+<p align="start">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,railway" />
+</p>
+
+</td>
+</tr>
+</table>
+
+### 🔐 Authentication & Security
+
+<p align="start">
+
+`JWT` &nbsp;&nbsp; `Refresh Tokens` &nbsp;&nbsp; `bcrypt` &nbsp;&nbsp; `RBAC`
+
 </p>
 
 ---
@@ -119,37 +142,6 @@ application.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmerr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmerr&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muhammad-Ahmerr&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmerr&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
